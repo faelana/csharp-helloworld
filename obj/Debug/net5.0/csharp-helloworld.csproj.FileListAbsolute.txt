@@ -1,0 +1,16 @@
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\csharp-helloworld.exe
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\csharp-helloworld.deps.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\csharp-helloworld.runtimeconfig.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\csharp-helloworld.runtimeconfig.dev.json
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\csharp-helloworld.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\ref\csharp-helloworld.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\bin\Debug\net5.0\csharp-helloworld.pdb
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.csprojAssemblyReference.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.AssemblyInfoInputs.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.AssemblyInfo.cs
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\ref\csharp-helloworld.dll
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.pdb
+C:\Users\Zayn\Desktop\gamedev\c#\csharp-helloworld\obj\Debug\net5.0\csharp-helloworld.genruntimeconfig.cache
